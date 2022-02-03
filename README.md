@@ -1,27 +1,16 @@
-# PdfExample
+<h1 align="center">Hi 👋, I'm Francisco Funes</h1>
+<h3 align="center">Crear un PDF con PdfMake en Angular by DiscoDuroRoer</h3>
+<h5 align="center"><a target="_blank" href="https://www.youtube.com/watch?v=hQRvXhWY8Es">Tutorial link</a></h5>
+<hr>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.3.
+- 🌱 I’m currently learning **PDFMAKE**
 
-## Development server
+- 👨‍💻 All of my projects are available at [https://franciscofunes.netlify.com/](https://franciscofunes.netlify.com/)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- 📝 I regularly write articles on [https://www.equaldev.com/en/blog/](https://www.equaldev.com/en/blog/)
 
-## Code scaffolding
+- 📫 How to reach me **ffunes90@gmail.com**
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<hr>
+<p align="left">
+</p>
